@@ -32,3 +32,9 @@
     padding: 15px; /* Some padding */
     border-radius: 100%; /* Rounded corners */
 }
+
+#photo-fixed {
+	display: none;
+	position: fixed;
+	top: 32px;
+}
